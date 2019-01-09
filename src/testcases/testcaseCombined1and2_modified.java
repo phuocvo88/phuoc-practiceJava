@@ -14,7 +14,7 @@ public class testcaseCombined1and2_modified {
         }
         catch (Exception e)
         {
-            System.out.println("TC 1 failed");
+            System.out.println("TC 1 failed due to exception" + e.getMessage());
             SeleniumUtils.driver.close();
         }
         TC2_VerifyLoginWithWrongCredential();
