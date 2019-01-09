@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5b2cf6-353d-411c-830b-dcb50c602953" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/testcases/testcaseCombined1and2_modified.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testcases/testcaseCombined1and2_modified.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
