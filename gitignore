@@ -1,0 +1,33 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+.recommenders/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+test-output/
+# Java
+bin/
+.class
+logs/
+
+# Device Token  
+**/data.txt
+**/output.txt
+
+# Upload Files
+uploadFiles/
+
+# Temp folder
+temp/
